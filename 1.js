@@ -1,3 +1,4 @@
+console.log(`Задача 1`)
 let a = 5;
 let st = "line";
 let bl = true;
